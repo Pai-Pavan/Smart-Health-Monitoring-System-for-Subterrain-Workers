@@ -52,13 +52,6 @@ Reliable long-range underground telemetry with real-time hazard alert generation
 
 ---
 
-## Future Scope
-- Wearable enclosure integration
-- Cloud dashboard logging
-- GPS / underground localization support
-- Multi-worker scalable network expansion
-
----
 
 ## Author
 Pavan Pai
